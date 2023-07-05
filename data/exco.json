@@ -1,82 +1,67 @@
 [
     {
-        "name": "Dasith Tilakaratna",
+        "name": "Dilanga Harshani",
         "position": "President",
-        "image": "img/eb/Dasith.png",
+        "image": "img/eb/Dilanga.png",
         "twitter": "#",
         "email": "dasith@sedsuoc.lk",
-        "facebook": "https://www.facebook.com/dasith.asela",
-        "instagram": "https://www.instagram.com/dasithtilakaratna/",
         "linkedin": "https://www.linkedin.com/in/dasith-tilakaratna-690b351b2/"
     },
     {
-        "name": "Sachindri Gunasekara",
+        "name": "Lakshan Dissanayake",
         "position": "Vice President",
-        "image": "img/eb/Sachindri.png",
+        "image": "img/eb/Vice_President.png",
         "twitter": "https://twitter.com/sachindri_sg?s=11",
         "email": "sachindrisg@gmail.com",
-        "facebook": "https://www.facebook.com/sachindri.s.g",
-        "instagram": "https://www.instagram.com/sachindri_sg/",
         "linkedin": "https://www.linkedin.com/in/sachindri-sg"
     },
     {
-        "name": "Thara Peiris",
+        "name": "Chamodya Thathsarani",
         "position": "Secretary",
-        "image": "img/eb/Thara.png",
+        "image": "img/eb/Secretary.png",
         "twitter": "#",
         "email": "mttpieris323@gmail.com",
-        "facebook": "https://www.facebook.com/thara.pieris.1/",
-        "instagram": "https://www.instagram.com/tharapieris/",
         "linkedin": "www.linkedin.com/in/thara-pieris-6a42991a5/"
     },
     {
-        "name": "Ishini Ramachandra",
+        "name": "Shehara Medawala",
         "position": "Assistant Secretary",
-        "image": "img/eb/Ishini.png",
+        "image": "img/eb/Asst_Secretary.png",
         "twitter": "#",
         "email": "ishiniramachandra@gmail.com",
-        "facebook": "#",
-        "instagram": "#",
         "linkedin": "https://www.linkedin.com/in/ishini-ramachandra-13485a227"
     },
     {
-        "name": "Kalana Bandara",
+        "name": "Hasini Warapitiya",
         "position": "Chief Coordinator",
-        "image": "img/eb/Kalana.png",
+        "image": "img/eb/Chief_Coordinator.png",
         "twitter": "https://twitter.com/Kalanabandara98",
         "email": "ashenkalana481@gmail.com",
-        "facebook": "https://www.facebook.com/merrrrlinnnn",
-        "instagram": "https://www.instagram.com/ashen_piyadigama/",
         "linkedin": "https://www.linkedin.com/in/kalanauocfosundergrad/"
     },
     {
-        "name": "Rev. Nugagolle Seevali Thero",
+        "name": "Anju Gayathri",
         "position": "Project Coordinator",
-        "image": "img/eb/Seevali_Thero.png",
+        "image": "img/eb/Project_Coordinator.png",
         "twitter": "#",
         "email": "seewaleehamuduruwo1@gmail.com",
-        "facebook": "https://www.facebook.com/tharanga.darsana.3",
-        "instagram": "#",
         "linkedin": "#"
     },
     {
-        "name": "Ishara Nimeshi",
+        "name": "Devanga Kithmini",
         "position": "Chief Editor",
-        "image": "img/eb/Ishara.png",
+        "image": "img/eb/Chief_Editor.png",
         "twitter": "#",
         "email": "isharanimeshifb@gmail.com",
-        "facebook": "https://www.facebook.com/ishara.nimeshi",
-        "instagram": "#",
         "linkedin": "https://www.linkedin.com/in/ishara-nimeshi97"
     },
     {
-        "name": "Anuki Pathinayaka",
+        "name": "Kaveena Ekanayake",
         "position": "Treasurer",
-        "image": "img/eb/Anuki.png",
+        "image": "img/eb/Treasurer.png",
         "twitter": "#",
         "email": "anuki2906@gmail.com",
-        "facebook": "https://www.facebook.com/anuki.pathinayke",
-        "instagram": "#",
         "linkedin": "http://linkedin.com/in/anuki-pathinayake-8b64a4214"
     }
+]
 ]
